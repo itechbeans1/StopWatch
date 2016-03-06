@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/reset"
+        android:orderInCategory="100"
+        android:title="Reset"/>
+    
+    <item
+        android:id="@+id/changeColor"
+        android:orderInCategory="100"
+        android:title="changeColor"/>
+
+</menu>
+<!-- From: file:/H:/My%20apps/Git%20Projects/StopW/app/src/main/res/menu/main.xml -->
